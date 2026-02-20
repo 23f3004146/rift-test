@@ -1,3 +1,3 @@
 import math
- deff calculate_area(radius)
+def calculate_area(radius):
     return math.pi * radius * radius
